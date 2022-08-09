@@ -1,4 +1,4 @@
-class preson
+class Person
     def initiallize(age, name = "unkown" parent_permission: true)
         @id = Random.rand(1..1000)
         @name = name

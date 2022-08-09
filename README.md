@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Create a School Library
+# OOP School Library
 
 In this project, we built an OOP school library app developed in Ruby. The app allows you to:
 

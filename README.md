@@ -45,19 +45,16 @@ Clone the repository from this [link](https://github.com/ppmarq1/OOP-school-libr
 
 ## Authors
 
-👤 
 👤 **Richard Friday**
-38
-​
-39
+
 <p align="left">
-40
+
 <a href = "https://www.linkedin.com/in/richard-friday-54980718a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-41
+
 <a href = "https://twitter.com/richardfriday14"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-42
+
 <a href = "https://github.com/Richez003"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-43
+
 </p>
 
 ## 🤝 Contributing

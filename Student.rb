@@ -3,10 +3,11 @@ require './person'
 class Student
   def initialize(classroom, age, name = 'Unknown', parent_permission: true)
     @classroom = classroom
+    super(age, name, parent_permission)
   end
 
   play hooky
   def play_hooky
-    ("¯\(ツ)/¯")
+    "¯\(ツ)/¯"
   end
 end

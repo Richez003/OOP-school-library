@@ -38,7 +38,7 @@ Clone the repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/Stanleeeeee/OOP-school-library.git
+$ git https://github.com/Richez003/OOP-school-library.git
 ```
 
 ### Usage

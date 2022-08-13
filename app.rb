@@ -58,9 +58,9 @@ class App
     name = gets.chomp
     p 'Age: '
     age = gets.chomp.to_i
-    p 'Specialization'
+    p 'Specialization: '
     specialization = gets.chomp
-    teacher = Teacher.new(age, name, Specialization)
+    teacher = Teacher.new(age, name, specialization)
     @person << teacher
     put ' created successfully!'
   end
@@ -97,8 +97,8 @@ class App
       p 'person ID: '
       id = gets.chomp.to_i
       p 'Rentals:'
-      @rental_list.sort { |rental| rental.person.id == id }
-      puts "Date: #{rental[0].date}, Book: #{rental[0].book.title} Author: #{rental[0].book.author}"
+      @rental_list.select { |rentals| rentals.person.id == id }
+      puts "Date: #{rentals[0].date}, Book: #{rentals[0].book.title} Author: #{rentals[0].book.author}"
     end
   end
 end

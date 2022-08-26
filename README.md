@@ -1,14 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# OOP School Library
+# OOP-school-library
 
-In this project, we built an OOP school library app developed in Ruby. The app allows you to:
-
-- Add new students or teachers.
-- Add new books.
-- Save records of who borrowed a given book and when..
-
-
+> **oop_school_library** is library management system that Implements OOP concepts of encapsulation and inheritance.
 
 ## Built With
 
@@ -16,11 +10,9 @@ In this project, we built an OOP school library app developed in Ruby. The app a
 - [x] Linter: [Rubocop](https://rubocop.org/)
 - [x] VS Code
 
-- Ruby
-
 ## Getting Started
 
-- To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -37,12 +29,21 @@ Likewise for Ruby installation.
 $ ruby --version && irb
 ```
 
-## Setup
+### Setup
 
-Clone the repository from this [link](https://github.com/ppmarq1/OOP-school-library.git)
+Clone the repository using the GitHub link provided below.
 
+### Install
 
+In the terminal, go to your file directory and run this command.
 
+```
+$ git clone https://github.com/Richez003/OOP-school-library.git
+```
+
+### Usage
+
+Kindly modify the files as needed.
 ## Authors
 
 👤 **Richard Friday**
@@ -58,14 +59,11 @@ Clone the repository from this [link](https://github.com/ppmarq1/OOP-school-libr
 <p align="left">
     
 <a href = "https://github.com/Richez003"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-
-</p>
-
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!!
+Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ppmarq1/OOP-school-library/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -76,6 +74,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
 
 ## 📝 License
 
